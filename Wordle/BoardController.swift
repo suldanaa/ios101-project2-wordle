@@ -44,7 +44,7 @@ class BoardController: NSObject,
         numTimesGuessed = 0
         collectionView.reloadData()
     }
-    
+
     // Exercise 5 Pt. 2 (optional): This function only needs to be implemented if you decide to do the optional requirement (see Pt. 1 in ViewController.swift)
     // This function should reset the board with the current settings without changing the goalWord
     // Tip: Take a look at how resetBoard is implemented above. The only difference is that you don't want to change the settings
