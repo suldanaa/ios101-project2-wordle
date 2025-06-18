@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 [Walkthrough](https://drive.google.com/file/d/1gUxvm2lYr3JJnudWV-wzIGIhb7KX4wzJ/view?usp=drive_link)
 
 ## Notes
-One challenged I faced was when to use guard let for let if. However, I quickly overcame it and mostly used let if for most of the project. Other than that and trying to understand the functionality of certain things used in the code like "#selector" I would say I didn't have any major challenges in implementing this project.
+One challenged I faced was when to use guard let or let if. However, I quickly overcame it and mostly used let if for most of the project. Other than that and trying to understand the functionality of certain things used in the code like "#selector" I would say I didn't have any major challenges in implementing this project.
 
 ## License
 
